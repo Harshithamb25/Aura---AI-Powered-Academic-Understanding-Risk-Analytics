@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Academic Understanding, Risk & Action",
+  "description": "An explainable closed-loop academic intelligence platform featuring risk detection, evidence-backed explanations, teacher interventions, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
